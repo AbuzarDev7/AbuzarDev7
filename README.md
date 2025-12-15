@@ -55,6 +55,15 @@ What I do best:
 
 ---
 
-⭐ Learning by building  
-🔥 Creative Coding & Motion  
-🚀 Abu Zar Mshahi
+## 🤝 Connect With Me
+
+Let’s connect and collaborate! I’m always open to frontend projects, creative coding, and new opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+
+💬 Feel free to connect with me on any platform above.
+
