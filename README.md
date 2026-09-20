@@ -1,9 +1,12 @@
 <div align="center">
 
-  <h1>Abuzar MSHAHI</h1>
+  <!-- Animated Developer Working at Desk -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650" alt="Coding Animation" />
+
+  <h1 style="margin-top: 15px;">Abuzar Mshahi</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full+Stack+Developer;MERN+Stack+%7C+Exploring+AutoGen+%26+LangGraph" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full+Stack+Developer;General+Purpose+Problem+Solver+(GPPS);MERN+Stack+%7C+Agentic+AI+Developer;Founder+%26+CEO+at+pixvext.tech;Exploring+AutoGen+%26+LangGraph" alt="Typing SVG" />
   </a>
 
 </div>
@@ -12,17 +15,18 @@
 
 ### About Me
 
-I am a software engineer, MERN stack developer, and agentic AI developer focused on building scalable, production-grade systems and clean web architectures.
+I am a Software Engineer, General Purpose Problem Solver (GPPS), MERN stack developer, and Agentic AI developer focused on engineering scalable, production-grade systems and clean architectures.
 
-
-* **Research & Development:** Currently engineering autonomous agent workflows and state machines using AutoGen and LangGraph.
+* **Leadership & Entrepreneurship:** Founder and CEO at **pixvext.tech**, driving core technical vision, system architecture, and execution.
+* **Problem Solving:** A General Purpose Problem Solver (GPPS) dedicated to dissecting complex system bottlenecks and crafting elegant, end-to-end solutions.
+* **Research & Development:** Currently engineering autonomous multi-agent workflows and state machines using AutoGen and LangGraph.
 * **Mission:** Dedicated to crafting robust digital products and solving complex engineering challenges with modern code standards.
 
 ---
 
 ### Portfolio
 
-* Direct Link: [Visit Personal Portfolio](https://your-portfolio-link.com)
+* Direct Link: [Visit Personal Portfolio](https://pixvext.tech)
 
 ---
 
