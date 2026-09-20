@@ -14,7 +14,7 @@
 
 I am a software engineer, MERN stack developer, and agentic AI developer focused on building scalable, production-grade systems and clean web architectures.
 
-* **Leadership & Entrepreneurship:** Founder and CEO at Innovatrix Tech, established at age 20 to drive software solutions and technical strategy.
+
 * **Research & Development:** Currently engineering autonomous agent workflows and state machines using AutoGen and LangGraph.
 * **Mission:** Dedicated to crafting robust digital products and solving complex engineering challenges with modern code standards.
 
