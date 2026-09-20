@@ -3,7 +3,7 @@
   <h1>Abuzar MSHAHI</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full+Stack+Developer;MERN+Stack+%7C+Agentic+AI+Developer;Founder+%26+CEO+at+Innovatrix+Tech;Exploring+AutoGen+%26+LangGraph" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full+Stack+Developer;MERN+Stack+%7C+Exploring+AutoGen+%26+LangGraph" alt="Typing SVG" />
   </a>
 
 </div>
