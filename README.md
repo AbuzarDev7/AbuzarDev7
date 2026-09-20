@@ -1,13 +1,15 @@
 <div align="center">
 
-  <!-- Animated Developer Working at Desk -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="650" alt="Coding Animation" />
+  <h1>Abu zar Mshahi</h1>
 
-  <h1 style="margin-top: 15px;">Abuzar Mshahi</h1>
-  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full+Stack+Developer;General+Purpose+Problem+Solver+(GPPS);MERN+Stack+%7C+Agentic+AI+Developer;Founder+%26+CEO+at+pixvext.tech;Exploring+AutoGen+%26+LangGraph" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full+Stack+Developer;General+Purpose+Problem+Solver+(GPPS);Founder+%26+CEO+at+pixvext.tech;MERN+Stack+%7C+Agentic+AI+Developer" alt="Typing SVG" />
   </a>
+
+  <br/><br/>
+
+  <!-- Interactive Coding Desk Animation -->
+  <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/Desk.gif" width="700" alt="Developer Coding Animation" />
 
 </div>
 
@@ -59,13 +61,13 @@ I am a Software Engineer, General Purpose Problem Solver (GPPS), MERN stack deve
 ### Languages and Tools ⚙️ :
 
 <div align="center">
-  <!-- Row 1: Git, GitHub, VS Code, JS, HTML/CSS, Next.js, Tailwind, Postgres, React, Express, MongoDB, Node.js, TS -->
+  <!-- Row 1: Git, GitHub, VS Code, JS, CSS, Next.js, Tailwind, Postgres, React, Express, MongoDB, Node.js, TS -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,js,css,nextjs,tailwind,postgres,react,express,mongodb,nodejs,ts" /><br/><br/>
   <!-- Row 2: Postman, Vercel, Redux, Markdown, Material-UI, Firebase, GitHub Actions, Npm, Vite, Solidity -->
   <img src="https://skillicons.dev/icons?i=postman,vercel,redux,md,materialui,firebase,githubactions,npm,vite,solidity" /><br/><br/>
   <!-- Row 3: Styled Components, NestJS, Three.js, TensorFlow, Docker, Bash, Redis, WASM, WordPress, Jest -->
   <img src="https://skillicons.dev/icons?i=styledcomponents,nestjs,threejs,tensorflow,docker,bash,redis,wasm,wordpress,jest" /><br/><br/>
-  <!-- Row 4: Kubernetes, FastAPI, D3.js, Swift, AWS, GCP/Dialogflow -->
+  <!-- Row 4: Kubernetes, FastAPI, D3.js, Swift, AWS, GCP -->
   <img src="https://skillicons.dev/icons?i=kubernetes,fastapi,d3,swift,aws,gcp" />
 </div>
 
