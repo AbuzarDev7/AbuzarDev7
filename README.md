@@ -1,46 +1,52 @@
 <div align="center">
 
-  # A PASSIONATE SOFTWARE ENGINEER! 🚀
-
+  <h1>Abuzar MSHAHI</h1>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full+Stack+Developer;MERN+Stack+%7C+Agentic+AI+Developer;Founder+%26+CEO+at+Innovatrix+Tech;Exploring+AutoGen+%26+LangGraph" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full+Stack+Developer;MERN+Stack+%7C+Agentic+AI+Developer;Founder+%26+CEO+at+Innovatrix+Tech;Exploring+AutoGen+%26+LangGraph" alt="Typing SVG" />
   </a>
 
 </div>
 
 ---
 
-### 👋 Hello, fellow coders & tech enthusiasts!
+### About Me
 
-I'm a passionate **Software Engineer**, dedicated **MERN Stack Developer**, and **Agentic AI Developer** who views programming not merely as a career, but as an evolving craft and a way of life.
+I am a software engineer, MERN stack developer, and agentic AI developer focused on building scalable, production-grade systems and clean web architectures.
 
-Here on my GitHub, you'll discover a curated collection of scalable web applications, autonomous AI experiments, and production-ready architectures. Driven by curiosity and problem-solving, I focus on building impactful software that solves real-world challenges.
-
-- 🏢 **Entrepreneurship:** Founded **Innovatrix Tech** at age 20, currently serving as its CEO—driving technical execution and leadership.
-- 🤖 **Current Focus:** Exploring autonomous multi-agent workflows using **AutoGen** and **LangGraph**.
-- 💡 **Belief:** Elevating the digital landscape, one line of clean, maintainable code at a time.
+* **Leadership & Entrepreneurship:** Founder and CEO at Innovatrix Tech, established at age 20 to drive software solutions and technical strategy.
+* **Research & Development:** Currently engineering autonomous agent workflows and state machines using AutoGen and LangGraph.
+* **Mission:** Dedicated to crafting robust digital products and solving complex engineering challenges with modern code standards.
 
 ---
 
-### 🌐 My Personal Portfolio Website
-👉 **[Visit Portfolio](https://your-portfolio-link.com)**
+### Portfolio
+
+* Direct Link: [Visit Personal Portfolio](https://your-portfolio-link.com)
 
 ---
 
-### 📫 Connect with me on 🔗 :
+### Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="38" height="38" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="38" height="38" />
   </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  &nbsp;&nbsp;
+  <a href="mailto:your_email@example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="38" height="38" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/YOUR-GITHUB-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="38" height="38" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/YOUR-PHONE-NUMBER" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" width="38" height="38" />
   </a>
 </p>
 
@@ -48,13 +54,19 @@ Here on my GitHub, you'll discover a curated collection of scalable web applicat
 
 ### Languages and Tools ⚙️ :
 
-<p align="left">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,js,html,nextjs,tailwind,postgres,react,express,mongodb,nodejs,ts" /><br/><br/>
-  <!-- Row 2 -->
+<div align="center">
+  <!-- Row 1: Git, GitHub, VS Code, JS, HTML/CSS, Next.js, Tailwind, Postgres, React, Express, MongoDB, Node.js, TS -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,js,css,nextjs,tailwind,postgres,react,express,mongodb,nodejs,ts" /><br/><br/>
+  <!-- Row 2: Postman, Vercel, Redux, Markdown, Material-UI, Firebase, GitHub Actions, Npm, Vite, Solidity -->
   <img src="https://skillicons.dev/icons?i=postman,vercel,redux,md,materialui,firebase,githubactions,npm,vite,solidity" /><br/><br/>
-  <!-- Row 3 -->
+  <!-- Row 3: Styled Components, NestJS, Three.js, TensorFlow, Docker, Bash, Redis, WASM, WordPress, Jest -->
   <img src="https://skillicons.dev/icons?i=styledcomponents,nestjs,threejs,tensorflow,docker,bash,redis,wasm,wordpress,jest" /><br/><br/>
-  <!-- Row 4 -->
+  <!-- Row 4: Kubernetes, FastAPI, D3.js, Swift, AWS, GCP/Dialogflow -->
   <img src="https://skillicons.dev/icons?i=kubernetes,fastapi,d3,swift,aws,gcp" />
-</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
