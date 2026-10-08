@@ -27,7 +27,7 @@ I am a Software Engineer, General Purpose Problem Solver (GPPS), MERN stack deve
 
 ### Portfolio
 
-* Direct Link: [Visit Personal Portfolio](https://pixvext.tech)
+* Direct Link: [Visit Personal Portfolio](https://3d-portfolio-ten-kappa.vercel.app/)
 
 ---
 
